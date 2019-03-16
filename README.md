@@ -3,7 +3,7 @@
 User Can Register Login add Experience,Education delete Experience,Education
 Authentication is done using Passport JWT and JWT Token
 
-## functionalities like Register,Login,Create Post,Comment on Post,Create Profile,View Profile
+## Functionalities like Register,Login,Create Post,Comment on Post,Create Profile,View Profile
 ## Login
 ![](images/Login.png)
 
