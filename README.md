@@ -1,4 +1,5 @@
 # Social Network like App
+#### MEAN STACK
 User Can Register Login add Experience,Education delete Experience,Education
 Authentication is done using Passport JWT and JWT Token
 
